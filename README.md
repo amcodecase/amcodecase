@@ -75,19 +75,12 @@ I enjoy crafting solutions that solve real-world problems, whether for fun, lear
 
 ## 💻 Tech Stack
 
-### Languages
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
 ### Frameworks & Libraries
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Livewire](https://img.shields.io/badge/Livewire-4e56a6?style=for-the-badge&logo=livewire&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Databases
 
@@ -108,7 +101,9 @@ I enjoy crafting solutions that solve real-world problems, whether for fun, lear
 
 ### Servers & Monitoring
 
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
 ![Gunicorn](https://img.shields.io/badge/Gunicorn-298729?style=for-the-badge&logo=gunicorn&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
@@ -132,41 +127,19 @@ I enjoy crafting solutions that solve real-world problems, whether for fun, lear
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amcodecase&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=amcodecase&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=true&show_icons=true" alt="GitHub Stats" />
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=amcodecase&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amcodecase&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amcodecase&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## ✍️ My Motto
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=amcodecase&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10&column=7)
-
-</div>
-
----
-
-## 🔝 Top Contributed Repos
-
-<div align="center">
-
-![Top Contributed](https://github-contributor-stats.vercel.app/api?username=amcodecase&limit=5&theme=gruvbox&combine_all_yearly_contributions=true&hide_border=true)
-
-</div>
-
----
-
-## ✍️ Dev Quote of the Day
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+### 🏛️ *"Let's build Rome in a day."*
 
 </div>
 
